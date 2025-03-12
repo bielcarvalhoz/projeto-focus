@@ -1,15 +1,9 @@
-![](thumbnail.png)
-
 # Fokus
-
-Olá, aventureiro(a) digital! Você acabou de embarcar na jornada de descoberta do nosso projeto incrível desenvolvido ao longo do curso "JavaScript: explorando a manipulação de elementos e da localStorage". Agarre-se à sua cadeira, pois vamos desbravar os mares do código!
-
-## Uma pitada sobre o Projeto
 
 ![](print.png)
 
 
-O nosso querido projeto é uma aplicação web simples e interativa que permite aos usuários adicionar, editar, visualizar e remover tarefas, tudo em um ambiente visual agradável e amigável. Mas não se engane, apesar de sua simplicidade, ele é o campo de batalha onde você vai treinar e aprimorar suas habilidades em JavaScript e manipulação da DOM.
+O nosso querido projeto é uma aplicação web simples e interativa que permite aos usuários adicionar, editar, visualizar e remover tarefas, tudo em um ambiente visual agradável e amigável.
 
 ## As Magias que o Projeto Realiza
 
@@ -19,7 +13,7 @@ O nosso querido projeto é uma aplicação web simples e interativa que permite 
 4. Marcar Tarefas como Completas: Quando uma tarefa é finalizada, ela muda de aparência. É a magia do CSS e JavaScript acontecendo!
 5. Remover Tarefas: Seja seletivo e remova apenas as tarefas completas ou jogue tudo para o alto e comece de novo com uma lista de tarefas limpa.
 
-## O Caldeirão de Técnicas e Tecnologias
+##  Técnicas e Tecnologias
 
 Aqui é onde a mágica acontece! Mergulhamos profundamente nas águas de:
 
